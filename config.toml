@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://inquisitive-griffin-663672.netlify.app/'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'MNPLT Test'
 theme = 'archie-master'
